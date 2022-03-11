@@ -1,2 +1,2 @@
-common.kafka.confluent-enabledd=true
+common.kafka.confluent-enabled=true
 common.kafka.timeout=25
