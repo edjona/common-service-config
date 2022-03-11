@@ -1,0 +1,2 @@
+common.kafka.confluent-enabled=true
+common.kafka.timeout=60
